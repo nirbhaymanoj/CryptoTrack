@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/nav_crypto"
+        android:title="Crypto Currencies" />
+
+    <item
+        android:id="@+id/nav_converter"
+        android:title="Currency Converter" />
+
+
+</menu>
